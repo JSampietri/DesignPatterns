@@ -1,0 +1,2 @@
+O Composite é um pattern para estruturas hierarquicas onde é necessário que toda a árvore responda a algum estimulo, ou parte dela.
+Ela funciona com um ou mais elementos concentradores espalhados pela arvore, mantendo uma lista com os itens contidos nesse composite e, uma vez o estimulo gerado, ele dispara o método em todos seus filhos.
