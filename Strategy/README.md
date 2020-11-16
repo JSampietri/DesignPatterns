@@ -7,7 +7,7 @@ Facilitar a escolha dos algoritmos criados para uma determinada função.<br/>
 d. Applicability<br/>
 Quando um projeto tiver muitas classes que se relacionam e diferem no modo de atuação ou quando há necessidade de variar o algoritmo de acordo<br/> com as condições de chamada.
 e. Structure<br/>
-![Estrutura do Strategy](https://raw.githubusercontent.com/JSampietri/DesignPatterns/tree/master/Strategy/estrutura.png)<br/>
+![Estrutura do Strategy](https://github.com/JSampietri/DesignPatterns/tree/master/Strategy/estrutura.png)<br/>
 f. Participants<br/>
 Context: define  mantém a referência para uma classe Strategy específica;<br/>
 Strategy: Interface(ou classe abstrata) comum a todos os algoritos suportados;<br/>
