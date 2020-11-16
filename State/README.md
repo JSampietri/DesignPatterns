@@ -7,7 +7,7 @@ A necessidade de que uma classe tenha comportamentos específicos determinados p
 d. Applicability<br/>
 Projetos em que se tem a necessidade de gerenciar comportamentos diferentes dependendo de um número de estados diferentes.<br/>
 e. Structure<br/>
-![Estrutura do State](https://github.com/JSampietri/DesignPatterns/tree/master/State/estrutura.png?raw=true)<br/>
+![Estrutura do State](https://raw.githubusercontent.com/JSampietri/DesignPatterns/tree/master/State/estrutura.png)<br/>
 f. Participants<br/>
 Context: define a interface com o cliente e mantém a instância d eestado concreto o qual define o estado atual do objeto;<br/>
 State: Interface que permite encapsular as responsabilidade associadas ao estado particular de contexto;<br/>
