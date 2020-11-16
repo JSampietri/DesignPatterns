@@ -7,10 +7,10 @@ Facilitar a escolha dos algoritmos criados para uma determinada função.<br/>
 d. Applicability<br/>
 Quando um projeto tiver muitas classes que se relacionam e diferem no modo de atuação ou quando há necessidade de variar o algoritmo de acordo<br/> com as condições de chamada.
 e. Structure<br/>
-![Estrutura do Strategy](https://github.com/JSampietri/DesignPatterns/Strategy/estrutura.png?raw=true)<br/>
+![Estrutura do Strategy](https://github.com/JSampietri/DesignPatterns/tree/master/Strategy/estrutura.png?raw=true)<br/>
 f. Participants<br/>
 Context: define  mantém a referência para uma classe Strategy específica;<br/>
 Strategy: Interface(ou classe abstrata) comum a todos os algoritos suportados;<br/>
 ConcreteStrategy: Um ou ais algoritmos fornecidos para a aplicação;<br/>
 g. Sample Code<br/>
-https://github.com/JSampietri/DesignPatterns/Strategy/CodigoExemplo<br/>
+https://github.com/JSampietri/DesignPatterns/tree/master/Strategy/CodigoExemplo<br/>
